@@ -1,2 +1,2 @@
-# suvi_face_emo
+# face_emo
 Facial Emotional Recognition
